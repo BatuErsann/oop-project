@@ -1,0 +1,2 @@
+Fiyat: 3,000,000
+Donanım Paketi: sline

@@ -1,0 +1,2 @@
+First Detail: 600,000
+Second Detail: ITech

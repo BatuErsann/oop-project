@@ -1,0 +1,4 @@
+Fiyat: 2,000,000
+Donanım Paketi: sline
+Fiyat: 1351,515
+Donanım Paketi: dynamic
